@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1758660518 source:c:\users\20127\desktop\sama\contact book\main.cpp
+	<iostream>
+	"Contact.h"
+	"ContactBook.h"
+	"PhoneNumber.h"
+
+1758661631 c:\users\20127\desktop\sama\contact book\include\contact.h
+	<iostream>
+	"PhoneNumber.h"
+
+1758661631 c:\users\20127\desktop\sama\contact book\include\phonenumber.h
+	<iostream>
+
+1758662050 c:\users\20127\desktop\sama\contact book\include\contactbook.h
+	<iostream>
+	"Contact.h"
+	"PhoneNumber.h"
+
